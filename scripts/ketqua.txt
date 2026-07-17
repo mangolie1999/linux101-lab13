@@ -1,0 +1,22 @@
+===== BAO CAO HE THONG =====
+Ho ten : Le Thi Phuong Trang
+MSSV   : SV123456
+Thoi gian: Fri Jul 17 09:25:47 AM EDT 2026
+Nguoi dung: Mangoly
+Thu muc  : /home/Mangoly/lab13
+--- Danh sach file ---
+total 24
+-rw-rw-r-- 1 Mangoly Mangoly 541 Jul 17 09:25 baocao.sh
+-rw-rw-r-- 1 Mangoly Mangoly   0 Jul 17 09:19 data1.log
+-rw-rw-r-- 1 Mangoly Mangoly   0 Jul 17 09:19 data2.log
+-rw-rw-r-- 1 Mangoly Mangoly  45 Jul 17 09:24 gioithieu.txt
+-rw-rw-r-- 1 Mangoly Mangoly 193 Jul 17 09:25 ketqua.txt
+-rw-rw-r-- 1 Mangoly Mangoly  68 Jul 17 09:22 loi.txt
+-rw-rw-r-- 1 Mangoly Mangoly   0 Jul 17 09:19 note.md
+-rw-rw-r-- 1 Mangoly Mangoly 432 Jul 17 09:22 res.txt
+-rw-rw-r-- 1 Mangoly Mangoly   0 Jul 17 09:19 tmp1.txt
+-rw-rw-r-- 1 Mangoly Mangoly   0 Jul 17 09:19 tmp2.txt
+-rw-rw-r-- 1 Mangoly Mangoly   0 Jul 17 09:19 tmp3.txt
+-rw-rw-r-- 1 Mangoly Mangoly   0 Jul 17 09:19 tmp5.txt
+-rw-rw-r-- 1 Mangoly Mangoly  28 Jul 17 09:23 who.txt
+So luong file: 13
