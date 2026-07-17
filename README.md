@@ -10,8 +10,15 @@
 * **Câu hỏi 1.1:** Lệnh liệt kê: `ls tmp*.txt`
 * **Câu hỏi 1.2:** Lệnh đếm dòng: `ls -l /etc | wc -l`
 * **Câu hỏi 2.1:** Nháy kép `""` hỗ trợ dịch nội dung biến (ví dụ `$SHELL` thành `/bin/bash`), còn nháy đơn `''` thì giữ nguyên chuỗi văn bản thô.
-* **Câu hỏi 3.1:** Nội dung cũ không còn vì toán tử `>` thực hiện ghi đè dữ liệu[cite: 2].
+* **Câu hỏi 3.1:** Nội dung cũ không còn vì toán tử `>` thực hiện ghi đè dữ liệu
 * **Bài tập 3.2:** Lệnh ghi file `who.txt`:
   ```bash
   whoami > who.txt
   pwd >> who.txt
+* **Bài tập 4.1:** 
+  * Lệnh tạo alias: `alias cls='clear'`
+  * Lệnh gỡ alias: `unalias cls`
+* **Các phím tắt trong Nano:** 
+  * Phím lưu (Write Out) = `Ctrl + O`
+  * Phím thoát (Exit) = `Ctrl + X`
+  * Phím tìm kiếm (Where Is) = `Ctrl + W`
